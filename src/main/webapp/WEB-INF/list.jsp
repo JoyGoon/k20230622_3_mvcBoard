@@ -10,7 +10,7 @@
 <style type="text/css">
 
 	a {
-		color: black;
+		color: skyblue;
 		text-decoration: none;
 	}
 	a:hover {
